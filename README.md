@@ -5,9 +5,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/brunocaetanobrito/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conecte-se no LinkedIn" /></a>
   <a href="https://www.youtube.com/@brunocaetanobrito"><img src="https://img.shields.io/badge/YouTube-Assistir-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Acompanhe no YouTube" /></a>
-</p>
-
-<p align="center">
   <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/%F0%9F%8F%81%20F%C3%B3rmula%20Tech%20Lead-Conhe%C3%A7a%20o%20programa-6D28D9?style=for-the-badge" alt="Conheça o Fórmula Tech Lead" /></a>
 </p>
 
@@ -18,24 +15,6 @@
 </p>
 
 <br>
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚡ No que estou focado</h3>
-      <p>
-        <img src="https://img.shields.io/badge/GitHub%20Copilot-111827?style=flat-square&amp;logo=githubcopilot&amp;logoColor=white" alt="GitHub Copilot" /><br>
-        <img src="https://img.shields.io/badge/DevOps-0078D7?style=flat-square&amp;logo=azuredevops&amp;logoColor=white" alt="DevOps" /><br>
-        <img src="https://img.shields.io/badge/Lideran%C3%A7a%20t%C3%A9cnica-6D28D9?style=flat-square" alt="Liderança técnica" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏁 Fórmula Tech Lead</h3>
-      <p>Desenvolvimento de habilidades para liderar times técnicos e transformar conhecimento em impacto.</p>
-      <a href="https://formulatechlead.com.br/"><strong>Conheça o programa →</strong></a>
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">🧰 Tecnologias</h2>
 
