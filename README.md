@@ -26,7 +26,7 @@ Hoje, meu foco está em **GitHub Copilot, IA generativa e DevOps**, além de for
 | 💼 **LinkedIn** | Liderança técnica, aprendizado e trajetória profissional |<a href="https://www.linkedin.com/in/brunocaetanobrito/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conectar no LinkedIn" /></a>
 | 📸 **Instagram** | Dicas rápidas e bastidores |<a href="https://instagram.com/brunocaetanobrito"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Seguir no Instagram" /></a>
 | 👥 **Facebook** | Conteúdos e novidades do Fórmula Tech Lead |  <a href="https://www.facebook.com/formulatechlead"><img src="https://img.shields.io/badge/Facebook-Curtir-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Curtir o Fórmula Tech Lead no Facebook" /></a>
-| 🧪 **Fórmula Tech Lead** | Meu programa para desenvolver líderes técnicos | <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/Links-Explorar-6e40c9?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Explorar todos os links" /></a>
+| 🧪 **FTL** | Fórmula Tech Lead meu programa para desenvolver líderes técnicos | <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/Links-Explorar-6e40c9?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Explorar todos os links" /></a>
 
 <p></p>
 
