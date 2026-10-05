@@ -42,25 +42,3 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,githubactions,azure,docker,kubernetes,terraform,cs,dotnet,java,ts&amp;theme=dark" alt="GitHub, GitHub Actions, Azure, Docker, Kubernetes, Terraform, C#, .NET, Java e TypeScript" />
 </p>
-
-<h2 align="center">🏅 Certificações Microsoft</h2>
-
-<p align="center">
-  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" /></a>
-  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0F6CBD?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Certified: Azure Data Fundamentals (DP-900)" /></a>
-  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/"><img src="https://img.shields.io/badge/SC--900-Security%2C%20Compliance%20%26%20Identity-5C2D91?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)" /></a>
-  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-6e40c9?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Certified: Azure AI Fundamentals (AI-900)" /></a>
-</p>
-
-<h2 align="center">📈 GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brunocaetanobrito&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;locale=pt-br" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/brunocaetanobrito?tab=repositories">Projetos</a> ·
-  <a href="https://instagram.com/brunocaetanobrito">Instagram</a> ·
-  <a href="https://www.tiktok.com/@brunocaetanobrito">TikTok</a> ·
-  <a href="https://www.facebook.com/formulatechlead">Facebook</a>
-</p>
