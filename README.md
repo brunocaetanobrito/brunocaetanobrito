@@ -8,7 +8,7 @@
   <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/FTL-Conhecer-6D28D9?style=for-the-badge" alt="Conhecer" /></a>
 </p>
 
-<h2 align="center">Olá! Sou apaixonado por tecnologia e educação desde 2009.</h2>
+<h3 align="center">Olá! Sou apaixonado por tecnologia e educação desde 2009.</h3>
 
 <p align="center">
   Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor. Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
@@ -16,7 +16,7 @@
 
 <br>
 
-<h2 align="center">🧰 Principais Tecnologias</h2>
+<h3 align="center">🧰 Principais Tecnologias</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=github,githubactions,azure,docker,kubernetes,terraform,cs,dotnet,java,ts&amp;theme=dark" alt="GitHub, GitHub Actions, Azure, Docker, Kubernetes, Terraform, C#, .NET, Java e TypeScript" />
