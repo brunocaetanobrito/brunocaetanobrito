@@ -11,8 +11,11 @@
 Hoje, meu foco está em **GitHub Copilot, IA generativa e DevOps**, além de formar a próxima geração de **Tech Leads**. Estou construindo minha trajetória rumo a **Staff Engineer**, com foco em GitHub Copilot e Engenharia de Software com IA.
 </p>
 
-<h3 align="center">🧰 Principais Tecnologias</h3>
-
 <p align="center">
+ 
+  ## 🧰 Principais Tecnologias
+
+<hr/>
+
   <img src="https://skillicons.dev/icons?i=github,githubactions,azure,docker,kubernetes,terraform,cs,dotnet,java,ts&amp;theme=dark" alt="GitHub, GitHub Actions, Azure, Docker, Kubernetes, Terraform, C#, .NET, Java e TypeScript" />
 </p>
