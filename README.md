@@ -30,7 +30,11 @@ foco_atual:
   - "🧭 Liderança técnica rumo a Staff Engineer"
 missao: "Transformar devs em líderes técnicos que entregam impacto real"
 objetivo: "🏆 Microsoft MVP – Developer Tools"
-certificacoes: [] # A preencher com credenciais verificadas no site.
+certificacoes:
+  - "AZ-900 · Azure Fundamentals"
+  - "DP-900 · Azure Data Fundamentals"
+  - "SC-900 · Security, Compliance & Identity Fundamentals"
+  - "AI-900 · Azure AI Fundamentals"
 ```
 
 ---
@@ -62,14 +66,14 @@ certificacoes: [] # A preencher com credenciais verificadas no site.
 
 ## 🏅 Certificações
 
-<!-- EDITE: adicione aqui os badges das certificações -->
-<!-- Exemplo de grid: substitua os caminhos e o nome por uma certificação verificada.
 <p align="center">
-  <a href="URL_DA_CREDENCIAL_CREDLY_OU_MICROSOFT_LEARN">
-    <img src="assets/certs/NOME_DO_BADGE.png" height="110" alt="NOME_DA_CERTIFICACAO" />
-  </a>
+  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-fundamentals/"><img src="https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0078D4?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Certified: Azure Fundamentals (AZ-900)" /></a>
+  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-data-fundamentals/"><img src="https://img.shields.io/badge/DP--900-Azure%20Data%20Fundamentals-0F6CBD?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Certified: Azure Data Fundamentals (DP-900)" /></a>
+  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/security-compliance-and-identity-fundamentals/"><img src="https://img.shields.io/badge/SC--900-Security%2C%20Compliance%20%26%20Identity-5C2D91?style=for-the-badge&amp;logo=microsoft&amp;logoColor=white" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)" /></a>
+  <a href="https://learn.microsoft.com/pt-br/credentials/certifications/azure-ai-fundamentals/"><img src="https://img.shields.io/badge/AI--900-Azure%20AI%20Fundamentals-6e40c9?style=for-the-badge&amp;logo=microsoftazure&amp;logoColor=white" alt="Microsoft Certified: Azure AI Fundamentals (AI-900)" /></a>
 </p>
--->
+
+4x Microsoft Certified — base em Cloud, Dados, Segurança e IA no ecossistema Microsoft 🚀
 
 ---
 
@@ -122,7 +126,7 @@ timeline
     title Rumo a Staff Engineer e Microsoft MVP
     2009 : Início em tecnologia e educação
     Carreira : Pesquisa e compartilhamento de conhecimento : Conteúdos e seminários
-    Hoje : Fórmula Tech Lead : Conteúdo sobre GitHub Copilot e DevOps
+    Hoje : Fórmula Tech Lead : Conteúdo sobre GitHub Copilot e DevOps : 4x Microsoft Certified (AZ-900, DP-900, SC-900, AI-900)
     Próximo : Buscar reconhecimento Microsoft MVP – Developer Tools : Evoluir para Staff Engineer
 ```
 
