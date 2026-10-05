@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/brunocaetanobrito/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conecte-se no LinkedIn" /></a>
   <a href="https://www.youtube.com/@brunocaetanobrito"><img src="https://img.shields.io/badge/YouTube-Assistir-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Acompanhe no YouTube" /></a>
-  <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/%F0%9F%8F%81%20F%C3%B3rmula%20Tech%20Lead-Conhe%C3%A7a%20o%20programa-6D28D9?style=for-the-badge" alt="Conhecer" /></a>
+  <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/FTL-Conhecer-6D28D9?style=for-the-badge" alt="Conhecer" /></a>
 </p>
 
 <h2 align="center">Olá! Sou apaixonado por tecnologia e educação desde 2009.</h2>
