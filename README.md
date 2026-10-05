@@ -14,8 +14,7 @@
 <h2 align="center">Olá! Sou apaixonado por tecnologia e educação desde 2009.</h2>
 
 <p align="center">
-  Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor.<br>
-  Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
+  Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor. Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
 </p>
 
 <br>
