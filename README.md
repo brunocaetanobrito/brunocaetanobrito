@@ -8,11 +8,11 @@
   <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/FTL-Conhecer-6D28D9?style=for-the-badge" alt="Conhecer" /></a>
 </p>
 
-<h3 align="center">Olá! Sou apaixonado por tecnologia desde 2009.</h3>
+## 👋 Olá, eu sou o Bruno!
 
-<p align="center">
-  Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor. Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
-</p>
+Sou **apaixonado por tecnologia e educação desde 2009**. Faço pesquisa, produzo conteúdo e compartilho conhecimento para ajudar desenvolvedores a transformar aprendizado em impacto.
+
+Hoje, meu foco está em **GitHub Copilot, IA generativa e DevOps**, além de formar a próxima geração de **Tech Leads**. Estou construindo minha trajetória rumo a **Staff Engineer**, com foco em GitHub Copilot e Engenharia de Software com IA.
 
 <h3 align="center">🧰 Principais Tecnologias</h3>
 
