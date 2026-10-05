@@ -15,7 +15,7 @@
 
 <p align="center">
   Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor.<br>
-  Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade como <strong>Microsoft MVP</strong>.
+  Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
 </p>
 
 <br>
