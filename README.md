@@ -8,7 +8,7 @@
   <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/FTL-Conhecer-6D28D9?style=for-the-badge" alt="Conhecer" /></a>
 </p>
 
-<h3 align="center">Olá! Sou apaixonado por tecnologia e educação desde 2009.</h3>
+<h3 align="center">Olá! Sou apaixonado por tecnologia desde 2009.</h3>
 
 <p align="center">
   Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor. Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
