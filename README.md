@@ -14,8 +14,6 @@
   Compartilho conhecimento e exploro como <strong>GitHub Copilot, IA e DevOps</strong> podem ajudar pessoas e times a entregar melhor. Meu próximo desafio: crescer como <strong>Staff Engineer</strong> e contribuir para a comunidade.
 </p>
 
-<br>
-
 <h3 align="center">🧰 Principais Tecnologias</h3>
 
 <p align="center">
