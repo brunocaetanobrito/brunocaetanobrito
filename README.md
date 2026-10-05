@@ -1,61 +1,57 @@
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:101828,45:1D4ED8,100:6D28D9&amp;height=210&amp;section=header&amp;text=Bruno%20Caetano%20de%20Brito&amp;fontSize=42&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=ENGENHARIA%20%E2%80%A2%20IA%20%E2%80%A2%20LIDERAN%C3%87A&amp;descAlignY=60&amp;descSize=16" alt="Bruno Caetano de Brito — Engenharia, IA e liderança" />
+</p> -->
 
-## Boas vindas ao meu perfil 😁
+<p align="center">
 
-Meu nome é Bruno Caetano de Brito e sou completamente apaixonado por tecnologia e educação, atuando nessas áreas desde 2009 😎
+  ## 👋 Olá, eu sou o Bruno Caetano de Brito!
 
-Faço pesquisa, produzo conteúdo para internet e ministro seminários para pessoas curiosas e inteligentes, que querem expandir seu conhecimento com soluções em tecnologia da informação e também através de vídeos no meu canal do YouTube ⚡.
+  Sou **apaixonado por tecnologia e educação desde 2009**. Faço pesquisa, produzo conteúdo e compartilho conhecimento para ajudar desenvolvedores a   transformar aprendizado em impacto.
 
-<br>
+Hoje, meu foco está em **GitHub Copilot, IA generativa e DevOps**, além de formar a próxima geração de **Tech Leads**. Estou construindo minha trajetória rumo a **Staff Engineer**, com foco em GitHub Copilot e Engenharia de Software com IA.
 
-<!-- REDES SOCIAIS -->
-<div align="center">
-  <a href="https://www.youtube.com/channel/UCyI76HMDhuHHQPHKs4ADmkg?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/brunocaetanobrito" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/bruno-caetano-de-brito/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+```yaml
+nome: Bruno Caetano de Brito
+foco_atual:
+  - "🤖 GitHub Copilot & IA no ciclo de desenvolvimento"
+  - "⚙️ DevOps, GitHub Actions & Platform Engineering"
+  - "🧭 Liderança técnica rumo a Staff Engineer"
+missao: "Transformar devs em líderes técnicos que entregam impacto real"
+certificacoes: [ AZ-900, DP-900, SC-900, AI-900]
+```
 
-<br>
+</p><p></p>
 
-<!-- GITHUB STATUS -->
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunocaetanobrito&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocaetanobrito&layout=compact&theme=dark"/>
-</div> -->
+<p align="center">
+ 
+  ## 🧰 Stack & Ferramentas
 
-<br>
+  <img src="https://skillicons.dev/icons?i=github,githubactions,azure,docker,aws,mongodb,kubernetes,nodejs,spring,nodejs,angular,cs,dotnet,java,ts&amp;theme=dark" alt="GitHub, GitHub Actions, Azure, Docker, Kubernetes, C#, .NET, Java e TypeScript, Git e VS Code" />
 
+</p><p></p>
 
-<!-- TECNOLOGIAS 
+## 📲 Vamos nos conectar?
 
+**Escolha sua rede favorita e acompanhe os próximos conteúdos!**
 
-<div align="left">
+| Onde | O que você encontra | Link |
+|---|---|---|
+| 🎥 **YouTube** | Conteúdos sobre GitHub Copilot, DevOps e carreira |<a href="https://www.youtube.com/@brunocaetanobrito?sub_confirmation=1"><img src="https://img.shields.io/badge/YouTube-Inscreva--se-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Inscreva-se no YouTube" /></a>
+| 💼 **LinkedIn** | Liderança técnica, aprendizado e trajetória profissional |<a href="https://www.linkedin.com/in/brunocaetanobrito/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Conectar no LinkedIn" /></a>
+| 📸 **Instagram** | Dicas rápidas e bastidores |<a href="https://instagram.com/brunocaetanobrito"><img src="https://img.shields.io/badge/Instagram-Seguir-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Seguir no Instagram" /></a>
+| 📸 **TikTok** | Dicas rápidas e bastidores |  <a href="https://www.tiktok.com/@brunocaetanobrito"><img src="https://img.shields.io/badge/TikTok-Seguir-000000?style=for-the-badge&amp;logo=tiktok&amp;logoColor=white" alt="Seguir no TikTok" /></a>
+| 👥 **Facebook** | Conteúdos e novidades do Fórmula Tech Lead |  <a href="https://www.facebook.com/formulatechlead"><img src="https://img.shields.io/badge/Facebook-Curtir-1877F2?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Curtir o Fórmula Tech Lead no Facebook" /></a>
+| 🏎️ **Fórmula Tech Lead** | Meu programa para desenvolver líderes técnicos | <a href="https://formulatechlead.com.br/"><img src="https://img.shields.io/badge/Links-Explorar-6e40c9?style=for-the-badge&amp;logo=linktree&amp;logoColor=white" alt="Explorar todos os links" /></a>
 
-![C#](https://img.shields.io/badge/-csharp-black?style=flat-square&logo=csharp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
-![IntelliJ](https://img.shields.io/badge/-IntelliJ%20IDEA-black?style=flat-square&logo=intellij-idea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+<p></p>
 
-</div>
+## ⭐ Gostou? Me ajude a crescer!
 
--->
+1. ⭐ **[Dê uma estrela nos repositórios que você curtir](https://github.com/brunocaetanobrito?tab=repositories)** — isso ajuda outras pessoas a descobrirem os projetos.
+2. 👤 **[Me siga aqui no GitHub](https://github.com/brunocaetanobrito)** para acompanhar os próximos passos.
+3. 💡 **Sugira conteúdos ou envie uma pergunta sobre Copilot** — sua dúvida pode inspirar o próximo vídeo, post ou live!
+
+<p align="center">
+  <a href="https://github.com/brunocaetanobrito/brunocaetanobrito/issues/new?title=%F0%9F%92%A1+Sugest%C3%A3o+de+conte%C3%BAdo%3A+&amp;body=**Tema%3A**%0A%0A**Por+que+seria+%C3%BAtil%3A**%0A%0A**Formato+(v%C3%ADdeo%2C+post%2C+live)%3A**&amp;template=sugestao-conteudo.yml"><img src="https://img.shields.io/badge/%F0%9F%92%A1%20Sugerir%20conte%C3%BAdo-2f81f7?style=for-the-badge" alt="Sugerir conteúdo" /></a>
+  <a href="https://github.com/brunocaetanobrito/brunocaetanobrito/issues/new?title=%E2%9D%93+Pergunta+sobre+GitHub+Copilot%3A+&amp;template=pergunta-copilot.yml"><img src="https://img.shields.io/badge/%F0%9F%A4%96%20Pergunta%20sobre%20Copilot-6e40c9?style=for-the-badge" alt="Enviar pergunta sobre GitHub Copilot" /></a>
+</p>

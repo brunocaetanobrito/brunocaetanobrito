@@ -1,0 +1,23 @@
+name: ❓ Pergunta sobre GitHub Copilot
+description: Envie sua dúvida sobre GitHub Copilot para inspirar novos conteúdos.
+title: "❓ Pergunta sobre GitHub Copilot: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vamos aprender juntos! Este espaço é para dúvidas da comunidade, não é um canal oficial de suporte.
+        Não envie senhas, tokens, código privado ou dados pessoais.
+  - type: textarea
+    id: pergunta
+    attributes:
+      label: Qual é sua pergunta?
+      description: Descreva o que você quer entender sobre o GitHub Copilot.
+    validations:
+      required: true
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Contexto
+      description: Se for relevante, informe o editor, a linguagem e o que você já tentou, sem dados confidenciais.
+    validations:
+      required: false

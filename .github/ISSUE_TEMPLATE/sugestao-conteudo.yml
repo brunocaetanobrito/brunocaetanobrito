@@ -1,0 +1,35 @@
+name: 💡 Sugestão de conteúdo
+description: Sugira um vídeo, post ou live sobre tecnologia e liderança técnica.
+title: "💡 Sugestão de conteúdo: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a escolher os próximos conteúdos!
+        Não compartilhe senhas, tokens ou informações confidenciais.
+  - type: input
+    id: tema
+    attributes:
+      label: Tema
+      description: Sobre o que você gostaria de aprender?
+      placeholder: "Ex.: GitHub Copilot na revisão de código"
+    validations:
+      required: true
+  - type: textarea
+    id: motivacao
+    attributes:
+      label: Por que seria útil?
+      description: Conte qual desafio ou dúvida esse conteúdo ajudaria a resolver.
+    validations:
+      required: true
+  - type: dropdown
+    id: formato
+    attributes:
+      label: Formato
+      options:
+        - Vídeo
+        - Post
+        - Live
+        - Sem preferência
+    validations:
+      required: true
