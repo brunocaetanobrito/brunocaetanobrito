@@ -16,7 +16,7 @@ Hoje, meu foco está em **GitHub Copilot, IA generativa e DevOps**, além de for
 
 </p><p></p>
 
-## 📲 Vamos nos conectar?
+## 📲 Me segue lá:
 
 **Escolha sua rede favorita e acompanhe os próximos conteúdos!**
 
